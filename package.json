@@ -1,0 +1,22 @@
+{
+    "name": "champions-lol",
+    "version": "1.0.0",
+    "description": "List of Champions",
+    "main": "index.js",
+    "bin": {
+        "championslol": "commands/championslol.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "homepage": "https://github.com/vht2023/championslol",
+    "keywords": [
+        "LOL",
+        "GAME",
+        "RANDOM",
+        "JS",
+        "League of Legends"
+    ],
+    "author": "thien.vo",
+    "license": "ISC"
+}
